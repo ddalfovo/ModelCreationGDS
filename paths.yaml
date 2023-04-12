@@ -1,0 +1,19 @@
+data  : "data/"
+rules : "rules/"
+src   : "src/"
+log   : "log/"
+out   : "out/"
+tmp   : "tmp/"
+
+bed          : "data/bedLists/bedList_hg38_gencode.txt"
+vcf          : "data/vcf1000GP/vcfList_hg38.txt"
+sif          : "data/sif.tsv"
+# subset       : "data/samples4modelSAS.txt"
+subSamples   : "data/subSamples_All.txt"
+singularity  : "data/singularity.sif"
+dbsnp        : "data/dbSNP/dbSNPpath_hg38.txt"
+
+# Check this out!!!
+minAF        : 0.02
+extendProbes : 0
+assembly     : "hg38"
