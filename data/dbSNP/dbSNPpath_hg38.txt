@@ -1,0 +1,1 @@
+/shares/CIBIO-Storage/BCGLAB/Resources/dbSNP/00-All.vcf.gz

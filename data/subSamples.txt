@@ -1,0 +1,6 @@
+All
+AFR
+AMR
+EAS
+EUR
+SAS

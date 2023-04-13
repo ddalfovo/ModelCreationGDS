@@ -1,0 +1,13 @@
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/KAPA.Capture.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/KAPA.Primary.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/MedExome.Capture.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/MedExome.Empirical.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/SS5.Regions.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/SS6r2.Regions.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/SS7.MergedProbes.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/SS7.Regions.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/SS8.Mergedprobes.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/SS8.Regions.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/SS.CREv2.Regions.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/Twist.bed
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg38/Twist.v2.bed

@@ -10,7 +10,7 @@ vcf          : "data/vcf1000GP/vcfList_hg38.txt"
 sif          : "data/sif.tsv"
 # subset       : "data/samples4modelSAS.txt"
 subSamples   : "data/subSamples_All.txt"
-singularity  : "data/singularity.sif"
+singularity  : "data/singularity/singularity.sif"
 dbsnp        : "data/dbSNP/dbSNPpath_hg38.txt"
 
 # Check this out!!!

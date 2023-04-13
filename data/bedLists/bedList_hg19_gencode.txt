@@ -1,0 +1,1 @@
+/shares/CIBIO-Storage/BCGLAB/Tools/GDSmodelCreation/data/bedFiles/hg19/Gencode.Exome.bed

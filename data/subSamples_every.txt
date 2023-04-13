@@ -1,0 +1,8 @@
+All
+Major
+Light
+AFR
+AMR
+EAS
+EUR
+SAS

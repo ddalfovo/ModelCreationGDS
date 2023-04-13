@@ -1,0 +1,1 @@
+/shares/CIBIO-Storage/BCGLAB/Resources/dbSNP/human_9606_b151_GRCh37p13/00-All.vcf.gz
